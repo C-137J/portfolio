@@ -1,0 +1,64 @@
+# ---------------------------------------------------------------------------
+# Nada de lo de aqui abajo entra en un repositorio publico.
+# La primera seccion es la importante: el resto es ruido de compilacion.
+# ---------------------------------------------------------------------------
+
+# Secretos y configuracion privada
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.keystore
+*.jks
+id_rsa*
+wrangler.toml
+.wrangler/
+google-services.json
+*no_compartir*
+*_secret*
+claves*.txt
+identidades*.csv
+
+# Artefactos del proyecto privado que no pintan nada aqui
+*.apk
+*.aab
+*.zip
+*.step
+*.ipt
+*.iam
+*.stl
+*.mlt
+
+# Compilacion de Arduino / PlatformIO / ESP-IDF
+build/
+.pio/
+.pioenvs/
+.piolibdeps/
+sdkconfig
+sdkconfig.old
+*.elf
+*.bin
+*.map
+*.d
+*.o
+
+# Python de las herramientas
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+package-lock.json
+
+# Editores y sistema
+.vscode/
+.idea/
+*.swp
+*~
+Thumbs.db
+desktop.ini
+.DS_Store
