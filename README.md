@@ -84,7 +84,7 @@ Además: [otros trabajos](proyectos/otros-trabajos.md) (kit de clamshells, ampli
 
 ## Uso de IA
 
-El diseño de las PCB y de las carcasas (selección de componentes, esquemático, layout y CAD) es mío. El código de las apps y parte del firmware de los dispositivos lo desarrollé con ayuda de herramientas de IA. Prefiero decirlo de forma explícita.
+El diseño de las PCB y de las carcasas (selección de componentes, esquemático, layout y CAD) es mío. El firmware de mis dispositivos y el código de las apps los programé con ayuda de herramientas de IA, lo que me permitió avanzar más rápido. Prefiero decirlo de forma explícita.
 
 ## Herramientas
 
