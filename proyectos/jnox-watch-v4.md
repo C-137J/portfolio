@@ -2,7 +2,7 @@
 
 *Reloj AMOLED táctil · primera PCB de 4 capas · carcasa sellada en nylon PA12*
 
-![PCB de 4 capas del JNOX Watch V4, cara superior](../assets/img/v4-pcb-frente.jpg)
+![PCB de 4 capas del JNOX Watch V4, vista 1](../assets/img/v4-pcb-frente.jpg)
 
 Reloj de muñeca con pantalla AMOLED táctil, GPS, IMU de 9 ejes, salida de audio y microSD, dentro de una caja de unos 5 × 4,6 × 2,3 cm. Es el salto de la [V3](jnox-watch-v3.md): de 2 a 4 capas, de USB-C a pines pogo y de una carcasa abierta a una sellable.
 
@@ -21,9 +21,9 @@ Reloj de muñeca con pantalla AMOLED táctil, GPS, IMU de 9 ejes, salida de audi
 | Tamaño | ≈ 5 × 4,6 × 2,3 cm |
 | Resistencia al agua | Diseñada para IP67. **Es un cálculo teórico; la validación experimental está pendiente.** |
 
-![PCB del JNOX Watch V4, cara inferior](../assets/img/v4-pcb-reverso.jpg)
-![Carcasa del JNOX Watch V4 en nylon PA12](../assets/img/v4-carcasa-pa12.jpg)
-![Render de la carcasa del JNOX Watch V4](../assets/img/v4-render.png)
+![PCB de 4 capas del JNOX Watch V4, vista 2](../assets/img/v4-pcb-reverso.jpg)
+![Carcasa del JNOX Watch V4 en nylon PA12, impresa](../assets/img/v4-carcasa-pa12.jpg)
+![Modelo 3D del JNOX Watch V4 en Inventor](../assets/img/v4-render.png)
 
 ## Mi aporte
 

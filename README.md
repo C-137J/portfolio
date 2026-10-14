@@ -27,48 +27,48 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <a href="proyectos/jnox-watch-v4.md"><img src="assets/img/v4-pcb-frente.jpg" alt="PCB de 4 capas del JNOX Watch V4"></a><br>
+    <td width="33%" valign="top" align="center">
+      <a href="proyectos/jnox-watch-v4.md"><img src="assets/img/v4-pcb-frente.jpg" alt="PCB de 4 capas del JNOX Watch V4" height="240"></a><br>
       <b><a href="proyectos/jnox-watch-v4.md">JNOX Watch V4</a></b><br>
       Reloj con pantalla AMOLED táctil. Mi primera PCB de 4 capas y carcasa sellada en PA12.<br>
       <sub><i>PCB y carcasa fabricadas; ensamblaje en curso.</i></sub>
     </td>
-    <td width="33%" valign="top">
-      <a href="proyectos/jnox-watch-v3.md"><img src="assets/img/v3-muneca.jpg" alt="JNOX Watch V3 en la muñeca"></a><br>
+    <td width="33%" valign="top" align="center">
+      <a href="proyectos/jnox-watch-v3.md"><img src="assets/img/v3-muneca.jpg" alt="JNOX Watch V3 en la muñeca" height="240"></a><br>
       <b><a href="proyectos/jnox-watch-v3.md">JNOX Watch V3</a></b><br>
       Reloj inteligente con GPS, IMU, micrófono y asistente de voz. PCB de 2 capas y carcasa en PA12.<br>
       <sub><i>Funcional. 1 unidad vendida.</i></sub>
     </td>
-    <td width="33%" valign="top">
-      <a href="proyectos/jnox-sci-v0.md"><img src="assets/img/sci-v0-frontal.jpg" alt="JNOX SCI v0, calculadora gráfica programable"></a><br>
+    <td width="33%" valign="top" align="center">
+      <a href="proyectos/jnox-sci-v0.md"><img src="assets/img/sci-v0-frontal.jpg" alt="JNOX SCI v0, calculadora gráfica programable" height="240"></a><br>
       <b><a href="proyectos/jnox-sci-v0.md">JNOX SCI v0</a></b><br>
       Calculadora gráfica programable con teclado táctil, microSD y Lua. Carcasa de 3 piezas en PLA.<br>
       <sub><i>Prototipo funcional.</i></sub>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
-      <a href="proyectos/lnox-v0.md"><img src="assets/img/lnox-carcasa.jpg" alt="Carcasa del asistente de voz LNOX"></a><br>
+    <td width="33%" valign="top" align="center">
+      <a href="proyectos/lnox-v0.md"><img src="assets/img/lnox-carcasa.jpg" alt="Asistente de voz LNOX con su carcasa en PA12" height="240"></a><br>
       <b><a href="proyectos/lnox-v0.md">LNOX v0</a></b><br>
       Asistente de voz tipo Alexa vinculado al reloj y a la app. Carcasa compacta en PA12.<br>
       <sub><i>Prototipo funcional.</i></sub>
     </td>
-    <td width="33%" valign="top">
-      <a href="proyectos/vachi-v0.md"><img src="assets/img/vachi-placa.jpg" alt="PCB de 4 capas del VACHI v0"></a><br>
+    <td width="33%" valign="top" align="center">
+      <a href="proyectos/vachi-v0.md"><img src="assets/img/vachi-placa.jpg" alt="VACHI v0: fotos en desarrollo" height="240"></a><br>
       <b><a href="proyectos/vachi-v0.md">VACHI v0</a></b><br>
       PCB de 4 capas con etapa de potencia para tres servomotores, para un proyecto de emprendimiento.<br>
-      <sub><i>2 placas armadas y funcionales.</i></sub>
+      <sub><i>Fotos en desarrollo.</i></sub>
     </td>
-    <td width="33%" valign="top">
-      <a href="proyectos/vrnox.md"><img src="assets/img/vrnox-mandos.jpg" alt="Mandos del sistema VRNOx"></a><br>
-      <b><a href="proyectos/vrnox.md">VRNOx</a></b><br>
-      Realidad virtual casera para SteamVR con mandos propios por ESP-NOW.<br>
-      <sub><i>Funcional; afinando el seguimiento de posición.</i></sub>
+    <td width="33%" valign="top" align="center">
+      <a href="proyectos/jnox-app.md"><img src="assets/img/app-hoy.jpg" alt="Pantalla Hoy de la JNOX App" height="240"></a><br>
+      <b><a href="proyectos/jnox-app.md">JNOX App</a></b><br>
+      Aplicación Android del reloj: notificaciones, rutas de GPS y asistente de voz.<br>
+      <sub><i>En revisión en Google Play.</i></sub>
     </td>
   </tr>
 </table>
 
-Además: [JNOX App (Android)](proyectos/jnox-app.md) y [otros trabajos](proyectos/otros-trabajos.md) (kit de clamshells, amplificador analógico, planos para corte láser).
+Además: [otros trabajos](proyectos/otros-trabajos.md) (kit de clamshells, amplificador analógico, planos para corte láser).
 
 ---
 
@@ -112,4 +112,4 @@ Por cuidar mis diseños, no publico el código, los esquemáticos ni los archivo
 
 © 2026 Javier Bonilla Flores. Todos los derechos reservados. Las imágenes y los textos de este repositorio no pueden copiarse, modificarse ni usarse con fines comerciales sin permiso por escrito. Se permite compartir los enlaces. Detalle en [LICENSE](LICENSE).
 
-JNOX, JNOX Watch, LNOX, LIA, SCI y VRNOx son nombres de proyectos propios.
+JNOX, JNOX Watch, LNOX, LIA y SCI son nombres de proyectos propios.

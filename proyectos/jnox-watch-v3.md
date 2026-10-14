@@ -4,7 +4,7 @@
 
 ![JNOX Watch V3 en la muñeca](../assets/img/v3-muneca.jpg)
 
-Reloj de muñeca con GPS propio, IMU, micrófono, vibrador y asistente de voz. Es la placa que después reutilicé en el VRNOx, el LNOX y el SCI v0: **un solo diseño, cuatro usos**.
+Reloj de muñeca con GPS propio, IMU, micrófono, vibrador y asistente de voz. Es la placa que después reutilicé en el LNOX, el SCI v0 y otros prototipos: **un solo diseño, varios usos**.
 
 ## Ficha
 
@@ -19,7 +19,7 @@ Reloj de muñeca con GPS propio, IMU, micrófono, vibrador y asistente de voz. E
 | Software | Firmware en C++ con LVGL, BLE y ESP-NOW, y app Android propia (código no público) |
 
 ![Placa del JNOX V3 armada, sin carcasa](../assets/img/v3-placa-armada.jpg)
-![Carcasa en nylon PA12 del JNOX V3](../assets/img/v3-carcasa-pa12.jpg)
+![Modelo 3D de la carcasa del JNOX V3 en Inventor](../assets/img/v3-carcasa-pa12.png)
 
 ## Mi aporte
 
@@ -42,11 +42,11 @@ Reloj de muñeca con GPS propio, IMU, micrófono, vibrador y asistente de voz. E
 
 - **El nylon PA12 absorbe humedad**, así que la carcasa lleva barniz acrílico. Resiste salpicaduras leves; no es un reloj sumergible.
 - **Planos de tierra y pistas de ancho variable según la señal**, como mejora del ruteo respecto a la V2.
-- **Hardware reutilizable**: la placa expone pads de los GPIO libres, lo que permitió convertirla en mandos de VR, en un parlante y en una calculadora sin rediseñarla.
+- **Hardware reutilizable**: la placa expone pads de los GPIO libres, lo que permitió convertirla en un parlante y en una calculadora sin rediseñarla.
 
 ## Estado
 
-Funcional. Una unidad vendida, que sigue en uso sin fallas ni quejas. Las demás placas se usan como base del [VRNOx](vrnox.md), el [LNOX](lnox-v0.md) y el [SCI v0](jnox-sci-v0.md).
+Funcional. Una unidad vendida, que sigue en uso sin fallas ni quejas. Las demás placas se usan como base del [LNOX](lnox-v0.md), el [SCI v0](jnox-sci-v0.md) y otros prototipos.
 
 ## Evidencia
 

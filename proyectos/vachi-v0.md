@@ -2,7 +2,9 @@
 
 *PCB de 4 capas con etapa de potencia para servomotores · proyecto de emprendimiento*
 
-![PCB de 4 capas del VACHI v0](../assets/img/vachi-placa.jpg)
+![VACHI v0: fotos en desarrollo](../assets/img/vachi-placa.jpg)
+
+*Las placas están con el equipo que las usa en el concurso; las fotos se añadirán más adelante.*
 
 Hardware de un dispositivo con pantalla y tres servomotores que se comunican entre sí por radio ESP-NOW. La idea y los requisitos son de un compañero; yo diseñé la PCB y el mecanismo de montaje de los servos. Participa en Equipu, el laboratorio de emprendimientos universitarios.
 
@@ -18,7 +20,7 @@ Hardware de un dispositivo con pantalla y tres servomotores que se comunican ent
 | Comunicación | ESP-NOW, con detección de cercanía por la intensidad de la señal |
 | Mecánica | Soporte de montaje de los servomotores, diseñado por mí |
 
-![Soporte mecánico de los servomotores del VACHI](../assets/img/vachi-servos.jpg)
+![Soporte de los servomotores del VACHI: foto en desarrollo](../assets/img/vachi-servos.jpg)
 
 ## Mi aporte
 

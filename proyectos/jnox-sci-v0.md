@@ -4,6 +4,8 @@
 
 ![JNOX SCI v0](../assets/img/sci-v0-frontal.jpg)
 
+*Prototipo con la carcasa impresa en PLA, mostrando la función de lugar de las raíces.*
+
 Calculadora de ingeniería con pantalla y teclado táctiles de 54 teclas, microSD, audio y un intérprete de Lua para escribir programas. La v0 es una **demostración sobre la placa del JNOX V3**: sin rediseñar la PCB, con dos módulos de pantalla añadidos.
 
 [Short en YouTube mostrando la reproducción de vídeo](https://www.youtube.com/shorts/5ruWCYLRwf0)
@@ -21,7 +23,7 @@ Calculadora de ingeniería con pantalla y teclado táctiles de 54 teclas, microS
 
 ![Teclado táctil de 54 teclas: capas base, SHIFT y ALPHA](../assets/img/sci-teclado-capas.png)
 ![Pantallas del módulo de control: PID, respuesta al escalón y Bode](../assets/img/sci-pantallas-control.png)
-![Piezas de la carcasa del SCI v0](../assets/img/sci-carcasa-piezas.jpg)
+![Modelo 3D de la carcasa del SCI v0 en Inventor](../assets/img/sci-carcasa-piezas.png)
 
 ## Mi aporte
 

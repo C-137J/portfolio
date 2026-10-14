@@ -2,7 +2,7 @@
 
 *Asistente de voz inteligente (parlante) · hardware del JNOX V3 · carcasa a medida en nylon PA12*
 
-![Carcasa del LNOX en nylon PA12](../assets/img/lnox-carcasa.jpg)
+![Asistente de voz LNOX con su carcasa en nylon PA12](../assets/img/lnox-carcasa.jpg)
 
 Asistente de voz tipo Alexa, con funciones de agente, que se vincula al reloj JNOX y a la app Android. Reutiliza la placa del [JNOX V3](jnox-watch-v3.md) y añade una salida de audio propia.
 
@@ -14,9 +14,10 @@ Asistente de voz tipo Alexa, con funciones de agente, que se vincula al reloj JN
 | Audio | Salida I2S con conversor PCM5102A y etapa de amplificación propia; música desde microSD |
 | Conectividad | Wi-Fi, BLE y ESP-NOW (enlace directo con el reloj) |
 | Servicio en la nube | Cloudflare Worker que coordina el reconocimiento de voz, el modelo de lenguaje y la síntesis de voz (código y endpoints no públicos) |
-| Carcasa | Nylon PA12 a medida, diseñada en Autodesk Inventor, lo más compacta posible y con una salida de audio de geometría compleja |
+| Interfaz | Pantalla OLED, 3 pulsadores y ranura para tarjeta microSD en la tapa superior |
+| Carcasa | Nylon PA12 a medida, diseñada en Autodesk Inventor, lo más compacta posible y con dos rejillas de audio de patrón geométrico |
 
-![Salida de audio de la carcasa del LNOX](../assets/img/lnox-rejilla-audio.jpg)
+![Modelo 3D de las rejillas de audio de la carcasa del LNOX](../assets/img/lnox-rejilla-audio.png)
 
 ## Qué hace
 
