@@ -79,8 +79,12 @@ Además: [otros trabajos](proyectos/otros-trabajos.md) (kit de clamshells, ampli
 3. **Fabricación** de PCB y carcasa en JLCPCB (PCB 2 y 4 capas; nylon PA12 sinterizado y resina SLA).
 4. **Ensamblaje y soldadura** propios de los componentes SMD.
 5. **Carcasa** en Autodesk Inventor: tabla de apilado en Z, holguras, sellado y diseño para impresión 3D.
-6. **Firmware** (ESP32-S3) y apps de apoyo, desarrollados con apoyo de herramientas de IA. El diseño de hardware y de la mecánica es propio.
+6. **Firmware** (ESP32-S3) y apps de apoyo, con ayuda de herramientas de IA (ver [uso de IA](#uso-de-ia)).
 7. **Pruebas y mejora continua**: cada versión corrige lo que enseñó la anterior (V2 → V3 → V4).
+
+## Uso de IA
+
+El diseño de las PCB y de las carcasas (selección de componentes, esquemático, layout y CAD) es mío. El código de las apps y parte del firmware de los dispositivos lo desarrollé con ayuda de herramientas de IA. Prefiero decirlo de forma explícita.
 
 ## Herramientas
 

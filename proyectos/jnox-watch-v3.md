@@ -16,7 +16,7 @@ Reloj de muñeca con GPS propio, IMU, micrófono, vibrador y asistente de voz. E
 | Energía | Batería LiPo de 220 mAh, carga por USB-C |
 | Carcasa | Nylon PA12 barnizado con acrílico, diseñada en Autodesk Inventor |
 | Ensamblaje | 5 unidades soldadas a mano (SMD 0603) |
-| Software | Firmware en C++ con LVGL, BLE y ESP-NOW, y app Android propia (código no público) |
+| Software | Firmware en C++ con LVGL, BLE y ESP-NOW, y app Android propia (código no público; desarrollados con ayuda de herramientas de IA) |
 
 ![Placa del JNOX V3 armada, sin carcasa](../assets/img/v3-placa-armada.jpg)
 ![Modelo 3D de la carcasa del JNOX V3 en Inventor](../assets/img/v3-carcasa-pa12.png)
@@ -27,7 +27,7 @@ Reloj de muñeca con GPS propio, IMU, micrófono, vibrador y asistente de voz. E
 - Cambio del zumbador de la V2 por un vibrador, reutilizando el mismo circuito de control.
 - Soldadura a mano de las 5 placas, con componentes SMD 0603.
 - Carcasa a medida (con temática de gato) para la persona que compró la unidad; las correas se compraron aparte.
-- Firmware y app Android de control.
+- Firmware y app Android de control, desarrollados con ayuda de herramientas de IA.
 
 ## De dónde viene
 

@@ -30,7 +30,7 @@ Asistente de voz tipo Alexa, con funciones de agente, que se vincula al reloj JN
 
 - Integración del hardware sobre la placa del V3 y diseño de la etapa de audio.
 - Diseño y fabricación de la carcasa en PA12: tamaño mínimo, rejilla acústica y montaje de la placa.
-- Servicio en la nube, firmware y vinculación con la [JNOX App](jnox-app.md).
+- Servicio en la nube, firmware y vinculación con la [JNOX App](jnox-app.md), con ayuda de herramientas de IA.
 
 ## Estado
 

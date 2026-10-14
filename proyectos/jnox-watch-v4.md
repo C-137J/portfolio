@@ -30,7 +30,7 @@ Reloj de muñeca con pantalla AMOLED táctil, GPS, IMU de 9 ejes, salida de audi
 - Diseño completo de la PCB de 4 capas: selección de componentes, esquemático, apilado, ruteo, antena, alimentación y carga.
 - Diseño de la carcasa y del mecanismo del botón en Autodesk Inventor, con la tabla de apilado en Z, las holguras y el sellado.
 - Pedido de fabricación de la PCB, la carcasa en PA12 y el botón en resina SLA.
-- Adaptación del firmware de la V3 al hardware nuevo.
+- Adaptación del firmware de la V3 al hardware nuevo, con ayuda de herramientas de IA.
 
 ## Decisiones de diseño
 

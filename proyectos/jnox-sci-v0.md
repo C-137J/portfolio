@@ -29,7 +29,7 @@ Calculadora de ingeniería con pantalla y teclado táctiles de 54 teclas, microS
 
 - Integración del hardware: con un solo V3, sus 11 GPIO libres alcanzan para las dos pantallas con táctil y la microSD, conservando los tres pulsadores.
 - Diseño de la carcasa en tres piezas e impresión propia.
-- Firmware, simulador y app de escritorio.
+- Firmware, simulador y app de escritorio, con ayuda de herramientas de IA.
 - Estudio propio de costos y mercado para llevarlo a una versión con placa propia.
 
 ## Cómo lo valido

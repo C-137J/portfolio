@@ -28,6 +28,6 @@ Centro de control del reloj en el teléfono. Reenvía al reloj las notificacione
 
 ## Estado
 
-En revisión en Google Play; por ahora está disponible solo para los verificadores. Desarrollada con apoyo de herramientas de IA.
+En revisión en Google Play; por ahora está disponible solo para los verificadores. El código de la app lo desarrollé con ayuda de herramientas de IA.
 
 [← Volver al portafolio](../README.md)
